@@ -16,10 +16,10 @@ This pathfinding visualizer shows many common pathfinding algorithms used in the
 **Depth-first Search** (unweighted): not ideal for pathfinding; does not guarantee the shortest path.
 
 # Features #
-**Visualizer: On/Off**
+**Visualizer:** On/Off
 <br />
-**Speed: Slow/Moderate/Fast**
+**Speed:** Slow/Moderate/Fast
 <br />
 **Insert/Delete Checkpoint**
 <br />
-**Mazes: Maze 1/Maze 2/ Random Maze**
+**Mazes:** Maze 1/Maze 2/ Random Maze
