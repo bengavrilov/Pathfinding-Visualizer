@@ -23,3 +23,5 @@ This pathfinding visualizer shows many common pathfinding algorithms used in the
 **Insert/Delete Checkpoint**
 <br />
 **Mazes:** Maze 1/Maze 2/ Random Maze
+
+# About #
