@@ -1,4 +1,4 @@
-**Note:** This is the public repository where all my finished work from my private repository was moved to so that some source code for key implementations can be hidden to prevent others from copying directly. Anyone who wants access to this source code please email me at ben.gavrilov@mail.utoronto.ca
+**Note:** This is the public repository where all my finished work from my private repository was moved to so that some source code for key implementations can be hidden to prevent piracy. Anyone who wants access to this source code please email me at ben.gavrilov@mail.utoronto.ca
 
 # Pathfinding-Visualizer
 Check out my pathfinding visualizer: https://bengavrilov.github.io/Path-Finding-Visualizer/
