@@ -25,3 +25,4 @@ This pathfinding visualizer shows many common pathfinding algorithms used in the
 **Mazes:** Maze 1/Maze 2/ Random Maze
 
 # About #
+Front end hosted on netlify
